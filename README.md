@@ -6,7 +6,7 @@
 
 </div>
 
-The patching of Android kernel and Android system.
+The patching of Android kernel and Android system.今天是8月13日
 
 - A new kernel-based root solution for Android devices.
 - APM: Support for modules similar to Magisk.
