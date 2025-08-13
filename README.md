@@ -6,7 +6,7 @@
 
 </div>
 
-The patching of Android kernel and Android system.今天是8月13日，我很喜欢lsposed
+The patching of Android kernel and Android system.今天是8月13日，我很喜欢lsposed，但是lsposed一直不让我进内测
 
 - A new kernel-based root solution for Android devices.
 - APM: Support for modules similar to Magisk.
